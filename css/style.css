@@ -88,6 +88,23 @@ section{
 	padding-top: 70px;
 }
 
+section h3 {
+		font-family: 'Pacifico', cursive;
+		width: 60%;
+		margin: 0 auto 40px;
+		font-size: 25px;
+		font-weight: normal;
+		text-align: center;
+		background: url(../images/borderBlack.png) repeat-x 0 50%;
+		background-size: 1px 1px;
+	}
+
+section h3 span {
+		background: #fff;
+		padding: 0 80px;
+	}
+
+
 section h2{
 	font-family: 'Pacifico', cursive;
 	width: 60%;
